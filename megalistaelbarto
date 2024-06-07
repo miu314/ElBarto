@@ -1,0 +1,93 @@
+{{
+   "name":"Megalista El Barto",
+   "author":"Bartolomiu - 06/06/24",
+   "image":"https://canwehaveapooldad.wordpress.com/wp-content/uploads/2017/04/04-10d-barttv.gif?w=525",
+   "url":"",
+   "telegram":"",
+   "info":"Bartolomiu Listas",
+   "groups":[
+      {
+         "name":"Importar Listas",
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScOcGV3vG7qIGhQpk9oMNpZ74z-SgOC25xFQ&s",
+         "stations":[
+            {
+                "name":"Lista TV",
+                "image":"https://canwehaveapooldad.wordpress.com/wp-content/uploads/2017/04/04-10d-barttv.gif?w=525",
+                "url":"https://raw.githubusercontent.com/miu314/ElBarto/main/listaTV.w3u",
+                "import":true
+            },
+            {
+               "name":"Lista Radio FM",
+               "image":"https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/logo.png",
+               "url":"https://www.tdtchannels.com/lists/radio.w3u",
+               "import":true
+            },
+            {
+               "name":"Lista IPTV",
+               "image":"https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+               "url":"https://af1c1onados.vercel.app/02.Menu.Iptvs.w3u",
+               "import":true
+            },
+            {
+               "name":"Chuky Cine",
+               "image":"https://i.ibb.co/vQJ9W7j/chuky.jpg",
+               "url":"https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
+               "import":true
+            },
+            {
+               "name":"Chuky Deportes",
+               "image":"https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+               "url":"https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood",
+               "import":true
+            },
+            {
+               "name":"🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX | Añadir Lista",
+               "image":"https://i.imgur.com/TL1OqHZ.png",
+               "url":"https://af-1-cionados.vercel.app/af1cionados.w3u",
+               "import":true
+            },
+            {
+               "name":"TIRI MARRANO SOLO ADULTOS +18 | Añadir Lista ",
+               "image":"https://imgs.search.brave.com/Wsz4VKYoTBlSH5hfQz73p_l_4hGxZiF7YY5spwhzpFE/rs:fit:256:256:1/g:ce/aHR0cHM6Ly9wbmdp/Y29uLnJ1L2ZpbGUv/dXBsb2Fkcy8xOHBs/dXMtMjU2eDI1Ni5w/bmc",
+               "url":"https://raw.githubusercontent.com/tiriti1/tiri/main/Tiri%20MARRANO%20PARA%20ADULTOS.m3u",
+               "import":true
+            }
+         ]
+      },
+      {
+          "name":"Lista TV",
+          "image":"https://canwehaveapooldad.wordpress.com/wp-content/uploads/2017/04/04-10d-barttv.gif?w=525",
+          "url":"https://raw.githubusercontent.com/miu314/ElBarto/main/listaTV.w3u"
+      },
+      {
+          "name":"Lista Radio FM",
+          "image":"https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/logo.png",
+          "url":"https://www.tdtchannels.com/lists/radio.w3u"
+      },
+      {
+          "name":"Lista IPTV",
+          "image":"https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+          "url":"https://af1c1onados.vercel.app/02.Menu.Iptvs.w3u"
+      },
+      {
+          "name":"Chuky Cine",
+          "image":"https://i.ibb.co/vQJ9W7j/chuky.jpg",
+          "url":"https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine"
+      },
+      {
+          "name":"Chuky Deportes",
+          "image":"https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+          "url":"https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood"
+      },
+      {
+          "name":"🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX | Añadir Lista",
+          "image":"https://i.imgur.com/TL1OqHZ.png",
+          "url":"https://af-1-cionados.vercel.app/af1cionados.w3u"
+      },
+      {
+          "name":"TIRI MARRANO SOLO ADULTOS +18 | Añadir Lista ",
+          "image":"https://imgs.search.brave.com/Wsz4VKYoTBlSH5hfQz73p_l_4hGxZiF7YY5spwhzpFE/rs:fit:256:256:1/g:ce/aHR0cHM6Ly9wbmdp/Y29uLnJ1L2ZpbGUv/dXBsb2Fkcy8xOHBs/dXMtMjU2eDI1Ni5w/bmc",
+          "url":"https://raw.githubusercontent.com/tiriti1/tiri/main/Tiri%20MARRANO%20PARA%20ADULTOS.m3u"
+      }
+   ]
+}
