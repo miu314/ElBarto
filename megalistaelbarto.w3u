@@ -13,7 +13,7 @@
             {
                 "name":"MegaBarto TV",
                 "image":"https://64.media.tumblr.com/60a26c336cc652e166058d187e6e1981/07371353e90aa94c-9b/s640x960/39f2cef792acd147fedaec513d7f8c7d690f5482.gif",
-                "url":"",
+                "url":"https://raw.githubusercontent.com/miu314/ElBarto/main/megaBartoTV.w3u",
                 "import":true
             },
             {
@@ -63,7 +63,7 @@
       {
           "name":"MegaBarto TV",
           "image":"https://64.media.tumblr.com/60a26c336cc652e166058d187e6e1981/07371353e90aa94c-9b/s640x960/39f2cef792acd147fedaec513d7f8c7d690f5482.gif",
-          "url":""
+          "url":"https://raw.githubusercontent.com/miu314/ElBarto/main/megaBartoTV.w3u"
       },
       {
           "name":"Lista TV",
