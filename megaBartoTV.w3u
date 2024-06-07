@@ -1,1 +1,63 @@
-
+{{
+   "name":"MegabartoTV",
+   "author":"Recopilacion de enlaces",
+   "image":"img/playlists.png",
+   "url":"",
+   "telegram":"",
+   "info":"",
+   "epg":"",
+   "stations":[
+      {
+         "name":"La 1",
+         "info":"",
+         "image":"https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",
+         "url":"https://ztnr.rtve.es/ztnr/1688877.m3u8",
+         "epgId":"LA 1",
+         "url1":"https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8",
+         "url2":"https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8"
+      },
+      {
+         "name":"La 2",
+         "info":"",
+         "image":"https://graph.facebook.com/la2detve/picture?width=200&height=200",
+         "url":"https://ztnr.rtve.es/ztnr/1688885.m3u8",
+         "epgId":"LA 2",
+         "url1":"https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8",
+         "url2":"https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8"
+      },
+      {
+         "name":"Antena 3",
+         "info":"",
+         "image":"https://graph.facebook.com/antena3/picture?width=200&height=200",
+         "url":"http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/129500",
+         "epgId":"Antena 3",
+         "url1":"http://live.budtvlight.com:25461/carlospix/Rx5HpkPqgp/129500",
+         "url2":"http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/336723"
+      },
+      {
+         "name":"Antena 3 Web",
+         "info":"",
+         "image":"https://graph.facebook.com/antena3/picture?width=200&height=200",
+         "url":"https://www.atresplayer.com/directos/antena3/",
+         "epgId":"Antena 3",
+         "embed":"true"
+      },
+      {
+         "name":"Cuatro",
+         "info":"",
+         "image":"https://graph.facebook.com/cuatro/picture?width=200&height=200",
+         "url":"http://zeuspro.xyz:8080/jay27492749/83749jfiwbqldufz499/336722",
+         "epgId":"Cuatro",
+         "url1":"http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/162725",
+         "url2":"http://tv.proyectox.vip:8080/jay27492749/83749jfiwbqldufz499/336722"
+      },
+      {
+         "name":"Cuatro Web",
+         "info":"",
+         "image":"https://graph.facebook.com/cuatro/picture?width=200&height=200",
+         "url":"https://www.mitele.es/directo/cuatro",
+         "epgId":"Cuatro",
+         "embed":"true"
+      }
+   ]
+}
