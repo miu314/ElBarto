@@ -11,6 +11,12 @@
          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScOcGV3vG7qIGhQpk9oMNpZ74z-SgOC25xFQ&s",
          "stations":[
             {
+                "name":"Mega TV",
+                "image":"https://64.media.tumblr.com/60a26c336cc652e166058d187e6e1981/07371353e90aa94c-9b/s640x960/39f2cef792acd147fedaec513d7f8c7d690f5482.gif",
+                "url":"",
+                "import":true
+            },
+            {
                 "name":"Lista TV",
                 "image":"https://canwehaveapooldad.wordpress.com/wp-content/uploads/2017/04/04-10d-barttv.gif?w=525",
                 "url":"https://raw.githubusercontent.com/miu314/ElBarto/main/listaTV.w3u",
@@ -55,6 +61,11 @@
          ]
       },
       {
+          "name":"Mega TV",
+          "image":"https://64.media.tumblr.com/60a26c336cc652e166058d187e6e1981/07371353e90aa94c-9b/s640x960/39f2cef792acd147fedaec513d7f8c7d690f5482.gif",
+          "url":""
+      },
+      {
           "name":"Lista TV",
           "image":"https://canwehaveapooldad.wordpress.com/wp-content/uploads/2017/04/04-10d-barttv.gif?w=525",
           "url":"https://raw.githubusercontent.com/miu314/ElBarto/main/listaTV.w3u"
@@ -78,6 +89,11 @@
           "name":"Chuky Deportes",
           "image":"https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
           "url":"https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood"
+      },
+      {
+          "name":"El Calvo Deportes (By Tiri)",
+          "image":"https://i.ibb.co/16pnWVV/calvo.jpg",
+          "url":"https://raw.githubusercontent.com/ChukyHood/calvo/main/calvo#.m3u"
       },
       {
           "name":"🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX | Añadir Lista",
