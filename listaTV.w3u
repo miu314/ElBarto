@@ -17,31 +17,31 @@
                "import":true
             },
             {
-               "name":"Pluto TV - HL | Añadir Lista ",
+               "name":"Pluto TV | Añadir Lista ",
                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScOcGV3vG7qIGhQpk9oMNpZ74z-SgOC25xFQ&s",
                "url":"https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/AIO.w3u",
                "import":true
             },
             {
-               "name":"Runtime TV - HL | Añadir Lista ",
+               "name":"Runtime TV | Añadir Lista ",
                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScOcGV3vG7qIGhQpk9oMNpZ74z-SgOC25xFQ&s",
                "url":"https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/main/tv/w3u/RuntimeTV_tv.w3u",
                "import":true
             },
             {
-               "name":"Rakuten TV - HL | Añadir Lista ",
+               "name":"Rakuten TV | Añadir Lista ",
                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScOcGV3vG7qIGhQpk9oMNpZ74z-SgOC25xFQ&s",
                "url":"https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u",
                "import":true
             },
             {
-               "name":"RadTV - HL | Añadir Lista ",
+               "name":"RadTV | Añadir Lista ",
                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScOcGV3vG7qIGhQpk9oMNpZ74z-SgOC25xFQ&s",
                "url":"https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/main/tv/w3u/RadTV_tv.w3u",
                "import":true
             },
             {
-               "name":"CanelaTV - HL | Añadir Lista ",
+               "name":"CanelaTV | Añadir Lista ",
                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScOcGV3vG7qIGhQpk9oMNpZ74z-SgOC25xFQ&s",
                "url":"https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u",
                "import":true
@@ -49,32 +49,32 @@
          ]
       },
       {
-         "name":"TDTChannels - LaQuay",
+         "name":"TDTChannels",
          "image":"https://pbs.twimg.com/profile_images/1247827338173108224/WfwOfmX4_400x400.jpg",
          "url":"https://www.tdtchannels.com/lists/tvradio.w3u"
       },
       {
-         "name":"Pluto TV - HL",
+         "name":"Pluto TV",
          "image":"https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
          "url":"https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/AIO.w3u"
       },
       {
-         "name":"Runtime TV - HL",
+         "name":"Runtime TV",
          "image":"https://helmerluzo.github.io/RuntimeTV_HL/runtime.png",
          "url":"https://helmerluzo.github.io/RuntimeTV_HL/tv/w3u/RuntimeTV_tv.w3u"
       },
       {
-         "name":"Rakuten TV - HL",
+         "name":"Rakuten TV",
          "image":"https://helmerluzo.github.io/RakutenTV_HL/rakuten.png",
          "url":"https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u"
       },
       {
-         "name":"RadTV - HL",
+         "name":"RadTV",
          "image":"https://helmerluzo.github.io/RadTV_HL/rad.png",
          "url":"https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/main/tv/w3u/RadTV_tv.w3u"
       },
       {
-         "name":"CanelaTV - HL",
+         "name":"CanelaTV",
          "image":"https://helmerluzo.github.io/CanelaTV_HL/canela.png",
          "url":"https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u"
       }
