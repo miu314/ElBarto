@@ -1,94 +1,81 @@
 {{
    "name":"Megalista El Barto",
-   "author":"Bartolomiu - 06/06/24",
+   "author":"Bartolomiu - 01/02/25",
    "image":"https://canwehaveapooldad.wordpress.com/wp-content/uploads/2017/04/04-10d-barttv.gif?w=525",
    "url":"https://raw.githubusercontent.com/miu314/ElBarto/main/megalistaelbarto.w3u",
    "telegram":"",
    "info":"Bartolomiu Listas",
    "groups":[
       {
-         "name":"Importar Listas",
-         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScOcGV3vG7qIGhQpk9oMNpZ74z-SgOC25xFQ&s",
+         "name":"Listas TV y Radio",
+         "image":"https://64.media.tumblr.com/60a26c336cc652e166058d187e6e1981/07371353e90aa94c-9b/s640x960/39f2cef792acd147fedaec513d7f8c7d690f5482.gif",
          "stations":[
             {
-                "name":"MegaBarto TV",
-                "image":"https://64.media.tumblr.com/60a26c336cc652e166058d187e6e1981/07371353e90aa94c-9b/s640x960/39f2cef792acd147fedaec513d7f8c7d690f5482.gif",
-                "url":"https://raw.githubusercontent.com/miu314/ElBarto/main/megaBartoTV.w3u",
-                "import":true
+               "name":"TDT",
+               "image":"https://i.imgur.com/JjQjZZG.jpeg",
+               "url":"https://pastebin.com/raw/66fsE0tR"
             },
             {
-                "name":"Lista TV",
-                "image":"https://canwehaveapooldad.wordpress.com/wp-content/uploads/2017/04/04-10d-barttv.gif?w=525",
-                "url":"https://raw.githubusercontent.com/miu314/ElBarto/main/listaTV.w3u",
-                "import":true
+               "name":"Radio",
+               "image":"https://i.imgur.com/hxVhUXe.jpeg",
+               "url":"https://pastebin.com/raw/JapmNXtP"
             },
             {
-               "name":"Lista Radio FM",
-               "image":"https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/logo.png",
-               "url":"https://www.tdtchannels.com/lists/radio.w3u",
-               "import":true
-            },
-            {
-               "name":"Lista IPTV",
-               "image":"https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
-               "url":"https://af1c1onados.vercel.app/02.Menu.Iptvs.w3u",
-               "import":true
-            },
-            {
-               "name":"Chuky Cine",
-               "image":"https://i.ibb.co/vQJ9W7j/chuky.jpg",
-               "url":"https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
-               "import":true
-            },
-            {
-               "name":"Chuky Deportes",
-               "image":"https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
-               "url":"https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood",
-               "import":true
-            },
-            {
-               "name":"🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX | Añadir Lista",
-               "image":"https://i.imgur.com/TL1OqHZ.png",
-               "url":"https://af-1-cionados.vercel.app/af1cionados.w3u",
-               "import":true
-            },
-            {
-               "name":"TIRI MARRANO SOLO ADULTOS +18 | Añadir Lista ",
-               "image":"https://imgs.search.brave.com/Wsz4VKYoTBlSH5hfQz73p_l_4hGxZiF7YY5spwhzpFE/rs:fit:256:256:1/g:ce/aHR0cHM6Ly9wbmdp/Y29uLnJ1L2ZpbGUv/dXBsb2Fkcy8xOHBs/dXMtMjU2eDI1Ni5w/bmc",
-               "url":"https://raw.githubusercontent.com/tiriti1/tiri/main/Tiri%20MARRANO%20PARA%20ADULTOS.m3u",
-               "import":true
-            }
+			         "name": "Rakuten TV 🇪🇸",
+			         "image": "https://i.postimg.cc/rFhzPjCx/Rakuten-Tv-new.png",
+			         "url": "https://af1c1onados.vercel.app/TV.FREE.Rakuten.Tv.w3u"
+		        },
+		        {
+			         "name": "Canela TV",
+			         "image": "https://i.postimg.cc/63dF8H5P/Canela-Tv-new.png",
+			         "url": "https://af1c1onados.vercel.app/TV.FREE.CanelaTV.w3u"
+		        },
+		        {
+			         "name": "Runtime TV",
+			         "image": "https://i.postimg.cc/fbwhxn1N/Runtime-TV-new.png",
+			         "url": "https://af1c1onados.vercel.app/TV.FREE.RuntimeTV.w3u"
+		        },
+		        {
+			         "name": "PlutoTV 🇪🇸",
+			         "image": "https://i.postimg.cc/gJ4w2QNN/pluto-tv-new.png",
+			         "url": "https://af1c1onados.vercel.app/TV.FREE.Pluto.TV.ES.w3u"
+		        },
+		        {
+			         "name": "PlutoTV 🇲🇽",
+			         "image": "https://i.postimg.cc/gJ4w2QNN/pluto-tv-new.png",
+			         "url": "https://af1c1onados.vercel.app/TV.FREE.PlutoTV.MX.w3u"
+		        },
+						{
+			         "name": "Conciertos Mix",
+			         "image": "https://i.postimg.cc/wxkXY1wW/Conciertos-new.png",
+			         "url": "https://af1c1onados.vercel.app/Tv.Shows.Conciertos.Mix.w3u"
+		        },
+		        {
+			         "name": "Tv Shows Mix",
+			         "image": "https://i.postimg.cc/B6j2ZjmN/tv-show-new.png",
+			         "url": "https://af1c1onados.vercel.app/Tv.Shows.Mix.w3u"
+		        },
+			      {
+			         "name":"RadTV",
+			         "image":"https://helmerluzo.github.io/RadTV_HL/rad.png",
+			         "url":"https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/main/tv/w3u/RadTV_tv.w3u"
+			      }
          ]
       },
       {
-          "name":"MegaBarto TV",
-          "image":"https://64.media.tumblr.com/60a26c336cc652e166058d187e6e1981/07371353e90aa94c-9b/s640x960/39f2cef792acd147fedaec513d7f8c7d690f5482.gif",
-          "url":"https://raw.githubusercontent.com/miu314/ElBarto/main/megaBartoTV.w3u"
-      },
-      {
-          "name":"Lista TV",
+          "name":"Listas IPTV",
           "image":"https://canwehaveapooldad.wordpress.com/wp-content/uploads/2017/04/04-10d-barttv.gif?w=525",
-          "url":"https://raw.githubusercontent.com/miu314/ElBarto/main/listaTV.w3u"
-      },
-      {
-          "name":"Lista Radio FM",
-          "image":"https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/logo.png",
-          "url":"https://www.tdtchannels.com/lists/radio.w3u"
-      },
-      {
-          "name":"Lista IPTV",
-          "image":"https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
           "url":"https://af1c1onados.vercel.app/02.Menu.Iptvs.w3u"
       },
       {
           "name":"Chuky Cine",
           "image":"https://i.ibb.co/vQJ9W7j/chuky.jpg",
-          "url":"https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine"
+          "url":"https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines"
       },
       {
           "name":"Chuky Deportes",
           "image":"https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
-          "url":"https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood"
+          "url":"https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport"
       },
       {
           "name":"El Calvo Deportes (By Tiri)",
@@ -96,12 +83,22 @@
           "url":"https://raw.githubusercontent.com/ChukyHood/calvo/main/calvo#.m3u"
       },
       {
-          "name":"🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX | Añadir Lista",
-          "image":"https://i.imgur.com/TL1OqHZ.png",
-          "url":"https://af-1-cionados.vercel.app/af1cionados.w3u"
+          "name":"👨‍👩‍👧𝘎𝘙𝘖𝘜𝘗 𝘊𝘏𝘜𝘒𝘠𝘏𝘖𝘖𝘋",
+          "image":"https://github.com/tirimosqui2/mlpla/blob/main/MLPLA%20CALVO.jpg?raw=true",
+          "url":"https://raw.githubusercontent.com/tiriti1/tiri/main/GROUP%20CHUKYHOOD.w3u"
       },
       {
-          "name":"TIRI MARRANO SOLO ADULTOS +18 | Añadir Lista ",
+          "name":"🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+          "image":"https://i.postimg.cc/rwRvTnHY/Rinnegan.png",
+          "url":"https://af1c1onados.vercel.app/af1cionados.w3u"
+      },
+      {
+          "name":"💢 𝐓𝐈𝐑𝐈𝐒𝐓𝐀𝐑🅃🅅 MLPA 💢",
+          "image":"https://github.com/tirimosqui2/mlpla/raw/main/logo%20tiri.mp4",
+          "url":"https://raw.githubusercontent.com/tirimosqui2/mlpla/main/LATIRI_STAR.w3u"
+      },
+      {
+          "name":"TIRI MARRANO SOLO ADULTOS +18",
           "image":"https://imgs.search.brave.com/Wsz4VKYoTBlSH5hfQz73p_l_4hGxZiF7YY5spwhzpFE/rs:fit:256:256:1/g:ce/aHR0cHM6Ly9wbmdp/Y29uLnJ1L2ZpbGUv/dXBsb2Fkcy8xOHBs/dXMtMjU2eDI1Ni5w/bmc",
           "url":"https://raw.githubusercontent.com/tiriti1/tiri/main/Tiri%20MARRANO%20PARA%20ADULTOS.m3u"
       }
